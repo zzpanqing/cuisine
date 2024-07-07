@@ -1,2 +1,23 @@
+Ce document groupe tous nos besoins de la nouvelle cuisine.
 
-2/ Compléter la fiche sanitaire 2023-2024 pour votre enfant : document disponible en cliquant sur le lien suivant Fiche sanitaire 2023-2024 .  Pour chaque enfant scolarisé de la petite section au CM2, un exemplaire de ce document doit être complété puis enregistré sur votre espace citoyens (dans la rubrique "Créer une inscription"). Les dossiers incomplets ne seront pas acceptés. Les enfants dont l'inscription n'aura pas été finalisée ne pourront pas être accueillis aux activités 2023-2024. Tutoriels pour vous aider dans cette démarche:  Téléchargement Fiche sanitaire  /  Signature électronique  / Dépôt Fiche sanitaire  /  Choix des activités 2023-2024
+coté Cusinère
+  haut:
+    hotte integré à 165cm  
+  bas
+    hauteur 85cm+épaisseur plan de travail
+    Evier sans rebord
+    poubelle dans un meuble 
+      leroy merlin Largeur 30cm 
+        https://www.leroymerlin.fr/produits/quincaillerie/rangement-par-piece/rangement-jardin/poubelle/poubelle-encastrable-2-bacs-pour-meuble-coulissant-45l-38-7-hailo-euro-cargo-86488706.html?Megaboost&at_medium=Sea-Paid&at_campaign=AM-05-CUISINE-PMAX-SHP-PLA-Tier1-3P&at_source=google&at_market=M1&at_section=R5C&at_campaign_id=20490834238&at_campaign_type=PMAX&at_campaign_sub_type=PLA&at_account=FIL-ROUGE-SHOPPING&at_account_id=921-620-5076&gad_source=1&gclid=CjwKCAjwhIS0BhBqEiwADAUhc37tjPGr6L6ApLzdWaMiPfBLff0qbMVlgPZa7dNZp6R74fNgc40YJRoCspkQAvD_BwE&gclsrc=aw.ds
+      oskab Largeur 40cm 
+Côté mur
+  meuble bas 
+    hauteur 76cm : Est il possible? hauteur de pied reglable?
+  meuble haut poignée 176cm
+etagere à l’entrée
+  https://www.ikea.com/fr/fr/p/vittsjoe-etagere-brun-noir-verre-20213312/
+
+TODO
+  lister où range quoi 
+    l'etat de lieu par photo ?
+  Où ranger les plateaux / planche à coupé
