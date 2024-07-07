@@ -4,7 +4,8 @@ coté Cusinère
   haut:
     hotte integré à 165cm  càd : 77cm au-dessus du plan de travail(~88cm)
     TODO : les autres meubles haut doit etre à quelle hauteur? 250-165= =85?
-      combinaison hauteur possible : 92 / 70 / 41 /35
+      combinaison hauteur possible:
+        oscab: 92 / 70 / 41 /35
   bas
     hauteur 85cm+épaisseur plan de travail(3cm)
     Evier sans rebord
@@ -15,7 +16,9 @@ coté Cusinère
 Côté mur
   meuble bas 
     hauteur 76cm : Est il possible? hauteur de pied reglable?
-  meuble haut poignée 176cm
+  meuble haut 
+    fixé à 137cm dans l'anciene cuisine
+    poignée 176cm
 etagere à l’entrée
   https://www.ikea.com/fr/fr/p/vittsjoe-etagere-brun-noir-verre-20213312/
 
