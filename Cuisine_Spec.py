@@ -2,9 +2,11 @@ Ce document groupe tous nos besoins de la nouvelle cuisine.
 
 coté Cusinère
   haut:
-    hotte integré à 165cm  
+    hotte integré à 165cm  càd : 77cm au-dessus du plan de travail(~88cm)
+    TODO : les autres meubles haut doit etre à quelle hauteur? 250-165= =85?
+      combinaison hauteur possible : 92 / 70 / 41 /35
   bas
-    hauteur 85cm+épaisseur plan de travail
+    hauteur 85cm+épaisseur plan de travail(3cm)
     Evier sans rebord
     poubelle dans un meuble 
       leroy merlin Largeur 30cm 
