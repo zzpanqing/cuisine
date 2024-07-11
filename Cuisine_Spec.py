@@ -24,5 +24,9 @@ etagere à l’entrée
 
 TODO
   lister où range quoi 
-    l'etat de lieu par photo ?
+    l'etat de lieu en photo ?
   Où ranger les plateaux / planche à coupé
+  Où se trouve les prises?
+  Où installer les lumières
+    
+  Où mettre le ou les interrupteurs des lumières?
