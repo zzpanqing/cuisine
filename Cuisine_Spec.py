@@ -30,3 +30,24 @@ TODO
   Où installer les lumières
     
   Où mettre le ou les interrupteurs des lumières?
+  VMC
+    position
+      33 cm du plafont
+      45 cm du mur droite
+    forme: rond de d = 14cm
+    
+devis
+  ixina
+    demander 
+      enlever les 2 colonnes à l'entrée
+      ajouter des lumières
+      reduire largeur des planche coté microonde pour avoir 
+      catalogue electro menager
+      
+  cuisinela
+  - sur meubles 1600 90x3 + 60 ouvert vers hauts
+  - colonne 
+  - haut 
+      poignet
+        poussoir 12900
+        
